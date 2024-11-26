@@ -1,0 +1,22 @@
+# Mac system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
+.env
+.venv/
+
+# VSCode settings
+.vscode/
+
+# IDE specific files
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Other system files or generated files
+Thumbs.db
